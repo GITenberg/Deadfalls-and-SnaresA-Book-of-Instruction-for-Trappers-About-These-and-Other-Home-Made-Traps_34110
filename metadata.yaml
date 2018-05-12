@@ -1,0 +1,34 @@
+_repo: Deadfalls-and-SnaresA-Book-of-Instruction-for-Trappers-About-These-and-Other-Home-Made-Traps_34110
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34110-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harding, A. R. (Arthur Robert)
+    alias: Harding, Arthur Robert
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '36678'
+    url: http://www.gutenberg.org/2009/agents/36678
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Robert_Harding
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Trapping
+- Animal
+gutenberg_issued: '2010-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal traps'
+- !lcc 'SK'
+- !lcsh 'Animal traps -- Juvenile literature'
+title: 'Deadfalls and Snares
+
+  A Book of Instruction for Trappers About These and Other Home-Made Traps'
+url: http://www.gutenberg.org/ebooks/34110
